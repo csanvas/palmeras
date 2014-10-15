@@ -9,11 +9,11 @@ Sitio web de "Las Palmeras Liberal"
 
 Utiliza front-end bootstrap.
 
-## Contributors
+## Créditos
 
 * Carlos Sanvas
 * Fotografía: Juan Carlos Asorey
  
-## License
+## Licenza
 
 Véxase ficheiro LICENSE.
